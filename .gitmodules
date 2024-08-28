@@ -64,3 +64,6 @@
 [submodule "python-dr14_tmeter"]
 	path = python-dr14_tmeter
 	url = ssh://aur@aur.archlinux.org/python-dr14_tmeter
+[submodule "zim-git"]
+	path = zim-git
+	url = ssh://aur@aur.archlinux.org/zim-git.git
