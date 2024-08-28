@@ -52,9 +52,6 @@
 [submodule "usbmon"]
 	path = usbmon
 	url = ssh://aur@aur.archlinux.org/usbmon.git
-[submodule "zim-dev"]
-	path = zim-dev
-	url = ssh://aur@aur.archlinux.org/zim-dev.git
 [submodule "zoho-cliq"]
 	path = zoho-cliq
 	url = ssh://aur@aur.archlinux.org/zoho-cliq.git
