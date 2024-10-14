@@ -1,9 +1,6 @@
 [submodule "adwaita-icon-theme-41"]
 	path = adwaita-icon-theme-41
 	url = ssh://aur@aur.archlinux.org/adwaita-icon-theme-41.git
-[submodule "alsa-scarlett-gui-dev"]
-	path = alsa-scarlett-gui-dev
-	url = ssh://aur@aur.archlinux.org/alsa-scarlett-gui-dev.git
 [submodule "amber-search-git"]
 	path = amber-search-git
 	url = ssh://aur@aur.archlinux.org/amber-search-git.git
