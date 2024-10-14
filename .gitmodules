@@ -64,3 +64,6 @@
 [submodule "zim-git"]
 	path = zim-git
 	url = ssh://aur@aur.archlinux.org/zim-git.git
+[submodule "alsa-scarlett-gui-git"]
+	path = alsa-scarlett-gui-git
+	url = ssh://aur.archlinux.org/alsa-scarlett-gui-git.git
