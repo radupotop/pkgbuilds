@@ -64,3 +64,6 @@
 [submodule "alsa-scarlett-gui-git"]
 	path = alsa-scarlett-gui-git
 	url = ssh://aur.archlinux.org/alsa-scarlett-gui-git.git
+[submodule "python-rq"]
+	path = python-rq
+	url = ssh://aur.archlinux.org/python-rq.git
