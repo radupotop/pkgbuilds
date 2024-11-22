@@ -67,3 +67,6 @@
 [submodule "python-rq"]
 	path = python-rq
 	url = ssh://aur.archlinux.org/python-rq.git
+[submodule "python-django-redis"]
+	path = python-django-redis
+	url = ssh://aur@aur.archlinux.org/django-redis.git
