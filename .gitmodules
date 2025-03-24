@@ -57,16 +57,16 @@
 	url = ssh://aur@aur.archlinux.org/python-aws-lambda-powertools.git
 [submodule "python-dr14_tmeter"]
 	path = python-dr14_tmeter
-	url = ssh://aur@aur.archlinux.org/python-dr14_tmeter
+	url = ssh://aur@aur.archlinux.org/python-dr14_tmeter.git
 [submodule "zim-git"]
 	path = zim-git
 	url = ssh://aur@aur.archlinux.org/zim-git.git
 [submodule "alsa-scarlett-gui-git"]
 	path = alsa-scarlett-gui-git
-	url = ssh://aur.archlinux.org/alsa-scarlett-gui-git.git
+	url = ssh://aur@aur.archlinux.org/alsa-scarlett-gui-git.git
 [submodule "python-rq"]
 	path = python-rq
-	url = ssh://aur.archlinux.org/python-rq.git
+	url = ssh://aur@aur.archlinux.org/python-rq.git
 [submodule "python-django-redis"]
 	path = python-django-redis
 	url = ssh://aur@aur.archlinux.org/django-redis.git
