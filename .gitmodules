@@ -73,3 +73,6 @@
 [submodule "python-ipdb"]
 	path = python-ipdb
 	url = ssh://aur@aur.archlinux.org/python-ipdb.git
+[submodule "geekbench"]
+	path = geekbench
+	url = ssh://aur@aur.archlinux.org/geekbench.git
