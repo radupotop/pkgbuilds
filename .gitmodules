@@ -76,3 +76,9 @@
 [submodule "geekbench"]
 	path = geekbench
 	url = ssh://aur@aur.archlinux.org/geekbench.git
+[submodule "blockdiag"]
+	path = blockdiag
+	url = ssh://aur@aur.archlinux.org/blockdiag
+[submodule "seqdiag"]
+	path = seqdiag
+	url = ssh://aur@aur.archlinux.org/seqdiag
