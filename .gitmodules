@@ -82,3 +82,6 @@
 [submodule "seqdiag"]
 	path = seqdiag
 	url = ssh://aur@aur.archlinux.org/seqdiag
+[submodule "python-django-docs"]
+	path = python-django-docs
+	url = ssh://aur@aur.archlinux.org/python-django-docs.git
