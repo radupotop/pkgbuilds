@@ -88,3 +88,6 @@
 [submodule "transmission3-cli-noupnp"]
 	path = transmission3-cli-noupnp
 	url = ssh://aur@aur.archlinux.org/transmission3-cli-noupnp.git
+[submodule "pavumeter-gtk3"]
+	path = pavumeter-gtk3
+	url = ssh://aur@aur.archlinux.org/pavumeter-gtk3.git
