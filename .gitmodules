@@ -91,3 +91,6 @@
 [submodule "pavumeter-gtk3"]
 	path = pavumeter-gtk3
 	url = ssh://aur@aur.archlinux.org/pavumeter-gtk3.git
+[submodule "proxyguard"]
+	path = proxyguard
+	url = ssh://aur@aur.archlinux.org/proxyguard.git
