@@ -94,3 +94,6 @@
 [submodule "proxyguard"]
 	path = proxyguard
 	url = ssh://aur@aur.archlinux.org/proxyguard.git
+[submodule "gnome-icon-theme"]
+	path = gnome-icon-theme
+	url = ssh://aur@aur.archlinux.org/gnome-icon-theme.git
