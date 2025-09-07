@@ -97,3 +97,6 @@
 [submodule "gnome-icon-theme"]
 	path = gnome-icon-theme
 	url = ssh://aur@aur.archlinux.org/gnome-icon-theme.git
+[submodule "gnome-icon-theme-symbolic"]
+	path = gnome-icon-theme-symbolic
+	url = ssh://aur@aur.archlinux.org/gnome-icon-theme-symbolic.git
