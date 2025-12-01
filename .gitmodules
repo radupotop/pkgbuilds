@@ -103,6 +103,3 @@
 [submodule "cantata-legacy"]
 	path = cantata-legacy
 	url = ssh://aur@aur.archlinux.org/cantata-legacy.git
-[submodule "battop"]
-	path = battop
-	url = ssh://aur@aur.archlinux.org/battop.git
