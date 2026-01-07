@@ -103,3 +103,6 @@
 [submodule "cantata-legacy"]
 	path = cantata-legacy
 	url = ssh://aur@aur.archlinux.org/cantata-legacy.git
+[submodule "alsa-scarlett-gui-vocaster-git"]
+	path = alsa-scarlett-gui-vocaster-git
+	url = ssh://aur@aur.archlinux.org/alsa-scarlett-gui-vocaster-git.git
