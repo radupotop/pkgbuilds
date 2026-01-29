@@ -109,3 +109,6 @@
 [submodule "pgmq"]
 	path = pgmq
 	url = ssh://aur@aur.archlinux.org/pgmq.git
+[submodule "actdiag"]
+	path = actdiag
+	url = ssh://aur@aur.archlinux.org/actdiag.git
