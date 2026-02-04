@@ -25,9 +25,6 @@
 [submodule "oauth2c"]
 	path = oauth2c
 	url = ssh://aur@aur.archlinux.org/oauth2c.git
-[submodule "python-a2wsgi"]
-	path = python-a2wsgi
-	url = ssh://aur@aur.archlinux.org/python-a2wsgi.git
 [submodule "python-connexion"]
 	path = python-connexion
 	url = ssh://aur@aur.archlinux.org/python-connexion.git
