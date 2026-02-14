@@ -109,3 +109,6 @@
 [submodule "actdiag"]
 	path = actdiag
 	url = ssh://aur@aur.archlinux.org/actdiag.git
+[submodule "powerofforreboot.efi"]
+	path = powerofforreboot.efi
+	url = ssh://aur@aur.archlinux.org/powerofforreboot.efi.git
