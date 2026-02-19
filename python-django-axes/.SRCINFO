@@ -1,0 +1,15 @@
+pkgbase = python-django-axes
+	pkgdesc = Keep track of failed login attempts in Django-powered sites
+	pkgver = 5.40.1
+	pkgrel = 2
+	url = https://github.com/jazzband/django-axes
+	arch = any
+	license = MIT
+	makedepends = python-build
+	makedepends = python-installer
+	depends = python
+	depends = python-django
+	source = https://github.com/jazzband/django-axes/archive/refs/tags/5.40.1.tar.gz
+	sha256sums = cc00b8acc81a3967ef129d2e0987042d0f25e1aa056ae11e91168126d38b3d53
+
+pkgname = python-django-axes

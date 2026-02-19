@@ -1,0 +1,114 @@
+[submodule "adwaita-icon-theme-41"]
+	path = adwaita-icon-theme-41
+	url = ssh://aur@aur.archlinux.org/adwaita-icon-theme-41.git
+[submodule "amber-search-git"]
+	path = amber-search-git
+	url = ssh://aur@aur.archlinux.org/amber-search-git.git
+[submodule "arrow-tools"]
+	path = arrow-tools
+	url = ssh://aur@aur.archlinux.org/arrow-tools.git
+[submodule "authy-export-git"]
+	path = authy-export-git
+	url = ssh://aur@aur.archlinux.org/authy-export-git.git
+[submodule "cshatag"]
+	path = cshatag
+	url = ssh://aur@aur.archlinux.org/cshatag.git
+[submodule "formatjson"]
+	path = formatjson
+	url = ssh://aur@aur.archlinux.org/formatjson.git
+[submodule "lora-cyrillic-font"]
+	path = lora-cyrillic-font
+	url = ssh://aur@aur.archlinux.org/lora-cyrillic-font.git
+[submodule "nextdns-unprivileged"]
+	path = nextdns-unprivileged
+	url = ssh://aur@aur.archlinux.org/nextdns-unprivileged.git
+[submodule "oauth2c"]
+	path = oauth2c
+	url = ssh://aur@aur.archlinux.org/oauth2c.git
+[submodule "python-connexion"]
+	path = python-connexion
+	url = ssh://aur@aur.archlinux.org/python-connexion.git
+[submodule "python-django-axes"]
+	path = python-django-axes
+	url = ssh://aur@aur.archlinux.org/python-django-axes.git
+[submodule "python-django-ipware"]
+	path = python-django-ipware
+	url = ssh://aur@aur.archlinux.org/python-django-ipware.git
+[submodule "scarlett2-firmware-git"]
+	path = scarlett2-firmware-git
+	url = ssh://aur@aur.archlinux.org/scarlett2-firmware-git.git
+[submodule "scarlett2-git"]
+	path = scarlett2-git
+	url = ssh://aur@aur.archlinux.org/scarlett2-git.git
+[submodule "sipgate-softphone"]
+	path = sipgate-softphone
+	url = ssh://aur@aur.archlinux.org/sipgate-softphone.git
+[submodule "usbmon"]
+	path = usbmon
+	url = ssh://aur@aur.archlinux.org/usbmon.git
+[submodule "zoho-cliq"]
+	path = zoho-cliq
+	url = ssh://aur@aur.archlinux.org/zoho-cliq.git
+[submodule "python-aws-lambda-powertools"]
+	path = python-aws-lambda-powertools
+	url = ssh://aur@aur.archlinux.org/python-aws-lambda-powertools.git
+[submodule "python-dr14_tmeter"]
+	path = python-dr14_tmeter
+	url = ssh://aur@aur.archlinux.org/python-dr14_tmeter.git
+[submodule "zim-git"]
+	path = zim-git
+	url = ssh://aur@aur.archlinux.org/zim-git.git
+[submodule "alsa-scarlett-gui-git"]
+	path = alsa-scarlett-gui-git
+	url = ssh://aur@aur.archlinux.org/alsa-scarlett-gui-git.git
+[submodule "python-rq"]
+	path = python-rq
+	url = ssh://aur@aur.archlinux.org/python-rq.git
+[submodule "python-django-redis"]
+	path = python-django-redis
+	url = ssh://aur@aur.archlinux.org/django-redis.git
+[submodule "python-ipdb"]
+	path = python-ipdb
+	url = ssh://aur@aur.archlinux.org/python-ipdb.git
+[submodule "geekbench"]
+	path = geekbench
+	url = ssh://aur@aur.archlinux.org/geekbench.git
+[submodule "blockdiag"]
+	path = blockdiag
+	url = ssh://aur@aur.archlinux.org/blockdiag
+[submodule "seqdiag"]
+	path = seqdiag
+	url = ssh://aur@aur.archlinux.org/seqdiag
+[submodule "python-django-docs"]
+	path = python-django-docs
+	url = ssh://aur@aur.archlinux.org/python-django-docs.git
+[submodule "transmission3-cli-noupnp"]
+	path = transmission3-cli-noupnp
+	url = ssh://aur@aur.archlinux.org/transmission3-cli-noupnp.git
+[submodule "pavumeter-gtk3"]
+	path = pavumeter-gtk3
+	url = ssh://aur@aur.archlinux.org/pavumeter-gtk3.git
+[submodule "proxyguard"]
+	path = proxyguard
+	url = ssh://aur@aur.archlinux.org/proxyguard.git
+[submodule "gnome-icon-theme"]
+	path = gnome-icon-theme
+	url = ssh://aur@aur.archlinux.org/gnome-icon-theme.git
+[submodule "gnome-icon-theme-symbolic"]
+	path = gnome-icon-theme-symbolic
+	url = ssh://aur@aur.archlinux.org/gnome-icon-theme-symbolic.git
+[submodule "cantata-legacy"]
+	path = cantata-legacy
+	url = ssh://aur@aur.archlinux.org/cantata-legacy.git
+[submodule "alsa-scarlett-gui-vocaster-git"]
+	path = alsa-scarlett-gui-vocaster-git
+	url = ssh://aur@aur.archlinux.org/alsa-scarlett-gui-vocaster-git.git
+[submodule "pgmq"]
+	path = pgmq
+	url = ssh://aur@aur.archlinux.org/pgmq.git
+[submodule "actdiag"]
+	path = actdiag
+	url = ssh://aur@aur.archlinux.org/actdiag.git
+[submodule "powerofforreboot.efi"]
+	path = powerofforreboot.efi
+	url = ssh://aur@aur.archlinux.org/powerofforreboot.efi.git
