@@ -1,4 +1,5 @@
 *.deb
+*.git
 *.rpm
 *.tar.gz
 *.tar.xz
