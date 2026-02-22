@@ -3,7 +3,6 @@ adwaita-icon-theme-41
 alsa-scarlett-gui-git
 amber-search-git
 arrow-tools
-authy-export-git
 blockdiag
 cantata-legacy
 cshatag
@@ -27,8 +26,6 @@ python-django-ipware
 python-dr14_tmeter
 python-ipdb
 python-rq
-scarlett2-firmware-git
-scarlett2-git
 seqdiag
 sipgate-softphone
 transmission3-cli-noupnp
