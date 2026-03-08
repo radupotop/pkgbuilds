@@ -1,6 +1,7 @@
 *.deb
 *.git
 *.rpm
+*.sig
 *.tar.gz
 *.tar.xz
 *.tar.zst
