@@ -1,0 +1,20 @@
+pkgbase = sqlite-web
+	pkgdesc = Web-based SQLite database browser
+	pkgver = 0.7.2
+	pkgrel = 1
+	url = https://github.com/coleifer/sqlite-web
+	arch = any
+	license = MIT
+	makedepends = python-build
+	makedepends = python-installer
+	makedepends = python-wheel
+	makedepends = python-setuptools
+	depends = python-flask
+	depends = python-peewee
+	depends = python-pygments
+	provides = sqlite_web
+	conflicts = python-sqlite-web
+	source = https://github.com/coleifer/sqlite-web/archive/refs/tags/0.7.2.tar.gz
+	sha256sums = 1ba0370fc599701f4c02318be4e390b16b003f5bfc454f33fbcc82f469ffe456
+
+pkgname = sqlite-web

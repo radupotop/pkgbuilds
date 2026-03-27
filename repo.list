@@ -28,6 +28,7 @@ python-ipdb
 python-rq
 seqdiag
 sipgate-softphone
+sqlite-web
 tdocker
 transmission3-cli-noupnp
 usbmon
